@@ -1,0 +1,19 @@
+{
+     "ret": true,
+     "data": {
+        "swiper": [
+            {
+                "id": "0001",
+                "imgUrl": "http://www.eachsee.com/data/afficheimg/1516415311549008617.jpg"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://www.eachsee.com/data/afficheimg/1494943648253769219.jpg"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://www.eachsee.com/data/afficheimg/1489237581997477678.jpg" 
+            }
+        ]
+     }  
+}
