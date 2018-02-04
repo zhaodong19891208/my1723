@@ -1,12 +1,19 @@
 <template>
     <div>
-        login
+        <LoginHeader></LoginHeader>
+        <Verification></Verification>  
     </div>
 </template>
 
 <script>
+import LoginHeader from './LoginHeader'
+import Verification from './verification'
 export default {
-    name: 'login'
+    name: 'login',
+    components: {
+      LoginHeader,
+      Verification
+    }
 }
 </script>
 

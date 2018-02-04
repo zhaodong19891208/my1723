@@ -14,6 +14,139 @@
                 "id": "0003",
                 "imgUrl": "http://www.eachsee.com/data/afficheimg/1489237581997477678.jpg" 
             }
-        ]
+        ],
+        "functional": [
+            {
+                "id": "0004",
+                "imgUrl": "http://www.eachsee.com/mobile/data/attached/nav/4ead8ed1598ddc42e8da8e94ce549bd2.png",
+                "type": "品牌镜架"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://www.eachsee.com/mobile/data/attached/nav/5d12a16e34775b3a2b4b4c4e7af6f292.png",
+                "type": "品牌镜片"
+            },
+            {
+                "id": "0007",
+                "imgUrl": "http://www.eachsee.com/mobile/data/attached/nav/c73ed9a4e4fbc7c11d9f0ad35774642b.png",
+                "type": "镜彩开年"
+            },
+            {
+                "id": "0008",
+                "imgUrl": "http://www.eachsee.com/mobile/data/attached/nav/ae370916b694096ddbc92308e42caa15.png",
+                "type": "近视太阳镜"
+            },
+            {
+                "id": "0009",
+                "imgUrl": "http://www.eachsee.com/mobile/data/attached/nav/af47688d4293b42b4445b82352b91f16.png",
+                "type": "防蓝光眼镜"
+            },
+            {
+                "id": "00010",
+                "imgUrl": "http://www.eachsee.com/mobile/data/attached/nav/c3b9ee320a06d339237b032eab9f2162.png",
+                "type": "太阳镜"
+            }
+        ],
+        "advertising" : [
+            {
+                "id": "0011",
+                "imgUrl": "http://www.eachsee.com/mobile/themes/tianmao2016/statics/img/index_cate/cate_1_1.png"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "http://www.eachsee.com/mobile/themes/tianmao2016/statics/img/index_cate/cate_1_2.png"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "http://www.eachsee.com/mobile/themes/tianmao2016/statics/img/index_cate/cate_1_3.png"
+            }
+        ],
+        "limit": [
+            {
+                "id": "0014",
+                "imgUrl": "http://www.eachsee.com/data/favourable/1512967349644084342.jpg"
+            },
+            {
+                "id": "0015",
+                "imgUrl": "http://www.eachsee.com/data/favourable/1512967445998884388.jpg"
+            },
+            {
+                "id": "0016",
+                "imgUrl": "http://www.eachsee.com/data/favourable/1512967488877865090.jpg"
+            },
+            {
+                "id": "0017",
+                "imgUrl": "http://www.eachsee.com/data/favourable/1512967531289456778.jpg"
+            }
+        ],
+          "purchaseOne": [
+                {
+                    "id": "0018",
+                    "imgUrl": "http://www.eachsee.com/images/201609/thumb_img/4214_thumb_G_1474305865411.jpg",
+                    "introduce": "诚心_P9022 002_钛合金_男士灰色半框（奢品潮流）眼镜架",
+                    "rmb": "¥149"
+                },
+                {
+                    "id": "0019",
+                    "imgUrl": "http://www.eachsee.com/images/201609/thumb_img/1817_thumb_G_1474308517583.jpg",
+                    "introduce": "淡泊TENPRO_T-5049 H03_进口纯钛_郑伊健代言_黑色时尚全框眼镜框",
+                    "rmb": "¥328"
+                },
+                {
+                    "id": "0020",
+                    "imgUrl": "http://www.eachsee.com/images/201705/thumb_img/4771_thumb_G_1495593247425.jpg",
+                    "introduce": "凯狮Cass（韩国）_TR8303 C3_TR90_超轻男女通用蓝色眼镜框",
+                    "rmb": "¥149"
+                }
+            ],
+          "purchaseTwo": [
+                    {
+                        "id": "0021",
+                        "imgUrl": "http://www.eachsee.com/images/201710/thumb_img/4896_thumb_G_1508747314559.jpg",
+                        "introduce": "杰克马丁JACK MARTIN_J85352 C1_纯钛_男士黑色全框眼镜架",
+                        "rmb": "¥298"
+                    },
+                    {
+                        "id": "0022",
+                        "imgUrl": "http://www.eachsee.com/images/201709/thumb_img/4873_thumb_G_1505456133137.jpg",
+                        "introduce": "三木_SM-22016 C1_手造板材+高级合金_潮人复古黑色全框眼镜框",
+                        "rmb": "¥199"
+                    },
+                    {
+                        "id": "0023",
+                        "imgUrl": "http://www.eachsee.com/images/201710/thumb_img/4906_thumb_G_1508823333082.jpg",
+                        "introduce": "施洛华_SP977 C03_豪华纯钛_男士灰色半框（商务款）眼镜架",
+                        "rmb": "¥280"
+                    }
+             ],
+           "brand": [
+                {
+                  "barndHead": "http://www.eachsee.com/mobile/themes/tianmao2016/statics/img/index_cate/cate_1.jpg"
+                 },
+                {
+                    "id": "0024",
+                    "imgUrl": "http://www.eachsee.com/images/201710/thumb_img/4909_thumb_G_1508823589542.jpg",
+                    "property": "精工 SEIKO",
+                    "materials": "纯钛全框"
+                },
+                {
+                    "id": "0025",
+                    "imgUrl": "http://www.eachsee.com/images/201710/thumb_img/4909_thumb_G_1508823589542.jpg",
+                    "property": "精工 SEIKO",
+                    "materials": "金框"
+                },
+                {
+                    "id": "0026",
+                    "imgUrl": "http://www.eachsee.com/images/201710/thumb_img/4909_thumb_G_1508823589542.jpg",
+                    "property": "精工 SEIKO",
+                    "materials": "纯钛半框"
+                },
+                {
+                    "id": "0027",
+                    "imgUrl": "http://www.eachsee.com/images/201710/thumb_img/4917_thumb_G_1508753050534.jpg",
+                    "property": "精工 SEIKO",
+                    "materials": "纯钛无框"
+                }
+           ]  
      }  
 }

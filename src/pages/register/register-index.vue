@@ -4,7 +4,6 @@
         <remain/>
        <refooter/>
       <retopone/>
-     
     </div>
 </template>
 
