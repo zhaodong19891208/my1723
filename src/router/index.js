@@ -36,7 +36,10 @@ export default new Router({
       name: 'shop',
       component: Shop
     },
+<<<<<<< HEAD
     
+=======
+>>>>>>> 619f6360e0c57d2199f839200b3d8efecc548214
     {
       path: '/register',
       name: 'register',
