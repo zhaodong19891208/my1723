@@ -10,7 +10,7 @@
         </div>
         <div class="scan" v-if="show" @click="handleShow()">
             <div class="scan-am">
-                <img src="/mobile/themes/tianmao2016/statics/img/ewm.png" alt="">
+                <img src="http://www.eachsee.com/mobile/themes/tianmao2016/statics/img/ewm.png" alt="">
                 <p>长按二维码关注公众微信</p>
             </div>
         </div>

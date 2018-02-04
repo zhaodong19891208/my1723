@@ -1,6 +1,6 @@
 <template>
     <div>
-        register
+        localStrege
     </div>
 </template>
 
