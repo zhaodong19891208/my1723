@@ -5,11 +5,11 @@ import App from './App'
 import router from './router'
 import FastClick from 'fastclick'
 import 'assets/css/reset.css'
-//import 'assets/iconfont/iconfont.css';
-//import 'assets/icon/iconfont.css';
-//
-//import 'assets/css/swiper.min.css'
-////import 'assets/iconfont/iconfont.css'
+import 'assets/iconfont/iconfont.css';
+import 'assets/icon/iconfont.css';
+
+import 'assets/css/swiper.min.css'
+import 'assets/iconfont/iconfont.css'
 
 
 import MintUI from 'mint-ui'
